@@ -4,8 +4,6 @@ import com.aries.demo.dynamic.services.DynamicConfigService;
 import com.aries.demo.dynamic.utils.SpringContextUtil;
 import com.ctrip.framework.apollo.model.ConfigChangeEvent;
 import com.ctrip.framework.apollo.spring.annotation.ApolloConfigChangeListener;
-import com.lenovo.id.dynamic.redis.configs.DynamicManager;
-import com.lenovo.id.dynamic.redis.configs.DynamicRedisSource;
 import com.lenovo.id.redis.service.RedisClient;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;

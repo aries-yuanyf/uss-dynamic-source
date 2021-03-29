@@ -1,4 +1,4 @@
-package com.lenovo.id.dynamic.redis.configs;
+package com.aries.demo.dynamic.redis.configs;
 
 import com.lenovo.id.redis.service.RedisClient;
 import org.springframework.stereotype.Component;

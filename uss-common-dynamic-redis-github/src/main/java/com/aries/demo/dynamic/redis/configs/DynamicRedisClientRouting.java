@@ -1,8 +1,6 @@
 package com.aries.demo.dynamic.redis.configs;
 
 import com.aries.demo.dynamic.constant.Constant;
-import com.lenovo.id.dynamic.redis.configs.DynamicRedisSource;
-import com.lenovo.id.dynamic.redis.configs.RedisClientSourceContextHolder;
 import com.lenovo.id.redis.service.RedisClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
